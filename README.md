@@ -2,7 +2,8 @@
 
 
 ¡Bienvenido al desafío de 30 días de HTML! [Manz.dev](https://manz.dev/)
-<img> src="https://manzdev.github.io/twitch-weather-city/manzdev.png" </img>
+
+<img> src="https://manzdev.github.io/twitch-weather-city/manzdev.png" alt="Manz.dev" />
 
 https://manzdev.github.io/twitch-weather-city/manzdev.png
 
