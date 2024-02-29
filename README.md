@@ -1,6 +1,9 @@
 # HTML-30-day-challenge
 
-¡Bienvenido al desafío de 30 días de HTML!
+
+![Manz.dev](https://manz.dev/images/logo.png)
+
+¡Bienvenido al desafío de 30 días de HTML! [Manz.dev](https://manz.dev/)
 
 Este desafío consiste en completar un ejercicio de HTML cada día durante 30 días. Puedes realizar los retos día a día o si lo prefieres, hacer varios retos al día. ¡Tú decides!
 
