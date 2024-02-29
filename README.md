@@ -1,9 +1,10 @@
 # HTML-30-day-challenge
 
 
-![Manz.dev](https://manz.dev/images/logo.png)
-
 ¡Bienvenido al desafío de 30 días de HTML! [Manz.dev](https://manz.dev/)
+<img> src="https://manzdev.github.io/twitch-weather-city/manzdev.png" </img>
+
+https://manzdev.github.io/twitch-weather-city/manzdev.png
 
 Este desafío consiste en completar un ejercicio de HTML cada día durante 30 días. Puedes realizar los retos día a día o si lo prefieres, hacer varios retos al día. ¡Tú decides!
 
