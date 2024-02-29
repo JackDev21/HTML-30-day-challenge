@@ -5,7 +5,7 @@
 
 <img src="https://manzdev.github.io/twitch-weather-city/manzdev.png" alt="Manz.dev" />
 
-https://manzdev.github.io/twitch-weather-city/manzdev.png
+
 
 Este desafío consiste en completar un ejercicio de HTML cada día durante 30 días. Puedes realizar los retos día a día o si lo prefieres, hacer varios retos al día. ¡Tú decides!
 
