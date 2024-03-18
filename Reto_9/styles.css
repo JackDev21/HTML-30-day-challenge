@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: #150019;
+  color: aliceblue;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  width: 350px;
+  height: auto;
+
+}
+
+.title {
+  padding: 5px;
+  margin: 20px 0 50px 0;
+}
+
+.container-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.title-text {
+  margin-bottom: 20px;
+}
+
+
+
+fieldset {
+  width: 70%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+legend {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #461b1b;
+
+}
+
+h2 {
+  padding: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  margin: 0 auto 0px 50px;
+  text-align: left;
+}
+
+li {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+mark {
+  background-color: #ff8c00;
+}
+
+.manz {
+  background-color: aqua;
+  color: white;
+}
