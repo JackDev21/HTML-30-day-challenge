@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reto dia 13</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="title">
+    <h1> HTML 30 DAY CHALLENGE MANZDEV</h1>
+  </div>
+
+  <picture>
+    <img src="https://lenguajehtml.com/challenge/logo.png" alt="htmlchallenge">
+  </picture>
+
+  <div>
+    <label for="tickets-sold-1">Tickets vendidos:</label>
+    <input type="number" id="tickets-sold-1" name="tickets_sold_1" min="0" max="100" value="20"
+      oninput="updateMeter('tickets-sold-1', 'meter-1')">
+    <meter id="meter-1" min="0" max="100" value="20" low="25" high="85" optimum="100"></meter>
+
+
+  </div>
+
+
+  <script>
+    // Función de JavaScript para actualizar el valor del meter
+    function updateMeter(inputId, meterId) {
+      const inputValue = document.querySelector(`#${inputId}`).value;
+      document.querySelector(`#${meterId}`).value = inputValue;
+    }
+  </script>
+
+</body>
+
+</html>
