@@ -25,3 +25,81 @@ img {
   padding: 5px;
   margin: 20px 0 50px 0;
 }
+
+/* Estilos para el contenedor del slider */
+.slider-container {
+  border: 2px solid #3498db;
+  /* Borde azul */
+  border-radius: 10px;
+  /* Bordes redondeados */
+  padding: 20px;
+  /* Espaciado interior */
+  margin: 20px;
+  /* Margen exterior */
+  width: 300px;
+  /* Ancho fijo */
+  display: flex;
+  /* Mostrar como flexbox */
+  flex-direction: column;
+  /* Dirección de los elementos en columna */
+  justify-content: center;
+  /* Centrar verticalmente */
+  align-items: center;
+  /* Centrar horizontalmente */
+  background-color: tan;
+  /* Color de fondo */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  /* Sombra */
+}
+
+/* Estilos para el elemento input */
+.slider-container input {
+  margin: 15px 0;
+  /* Margen superior e inferior */
+  width: 100%;
+  /* Ancho del input */
+  border-radius: 20px;
+
+}
+
+/* Estilos para el contenedor del slider */
+.slider-container input[type="range"] {
+  appearance: none;
+  /* Elimina los estilos predeterminados del navegador */
+}
+
+/* Estilos para el contenedor de la pista del slider */
+.slider-container input[type="range"]::-webkit-slider-runnable-track {
+  background: darkblue;
+  /* Color de fondo de la pista */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.822) inset;
+  /* Sombra */
+  border-radius: 20px;
+  /* Bordes redondeados */
+}
+
+/* Estilos para el thumb del slider */
+.slider-container input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  /* Elimina los estilos predeterminados del thumb */
+  width: 18px;
+  /* Ancho del thumb */
+  height: 32px;
+  /* Altura del thumb */
+  box-shadow: 0 0 4px #0006;
+  /* Sombra */
+  background: conic-gradient(#222, #888, #444, #222);
+  /* Color del thumb */
+  border-radius: 16px;
+  /* Bordes redondeados */
+}
+
+/* Estilos para el elemento output */
+output {
+  margin: 20px 0;
+  /* Margen superior e inferior */
+  font-size: 72px;
+  /* Tamaño de fuente */
+  color: #3498db;
+  /* Color del texto */
+}
