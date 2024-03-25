@@ -1,7 +1,7 @@
 # HTML-30-day-challenge
 
-[![HTML5](https://img.shields.io/badge/HTML5-db542f?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]
-[![CSS3](https://img.shields.io/badge/CSS3-4d98d4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]
+![HTML5](https://img.shields.io/badge/HTML5-db542f?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS3](https://img.shields.io/badge/CSS3-4d98d4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
 ¡Bienvenido al desafío de 30 días de HTML! [Manz.dev](https://manz.dev/)
 
