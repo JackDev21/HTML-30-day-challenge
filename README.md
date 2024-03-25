@@ -1,11 +1,11 @@
-# HTML-30-day-challenge https://lenguajehtml.com/challenge/
+# HTML-30-day-challenge
 
+[![HTML5](https://img.shields.io/badge/HTML5-db542f?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]
+[![CSS3](https://img.shields.io/badge/CSS3-4d98d4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]
 
 ¡Bienvenido al desafío de 30 días de HTML! [Manz.dev](https://manz.dev/)
 
 <img src="https://manzdev.github.io/twitch-weather-city/manzdev.png" alt="Manz.dev" />
-
-
 
 Este desafío consiste en completar un ejercicio de HTML cada día durante 30 días. Puedes realizar los retos día a día o si lo prefieres, hacer varios retos al día. ¡Tú decides!
 
